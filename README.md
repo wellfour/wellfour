@@ -28,10 +28,9 @@ QA Automation engineer.
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
   <code><img width="5%" title="Docker" src="images/icons/docker.png"></code>
   <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
+  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
   <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="./images/icons/allure_testops.png"></code>
-  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
   <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
   <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
-
 </p>
