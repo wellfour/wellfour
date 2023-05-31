@@ -4,7 +4,7 @@ QA Automation engineer.
 
 ### Tools and technologies:
 
-### Java stack:
+### <p  align="center"> Java stack:
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
@@ -13,7 +13,7 @@ QA Automation engineer.
   <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
   <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
 
-### Python stack:
+### <p  align="center"> Python stack:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/icons/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/icons/python.png"></code>
@@ -21,7 +21,7 @@ QA Automation engineer.
   <code><img width="5%" title="Selene" src="images/icons/selene.png"></code>
   <code><img width="5%" title="Requests" src="images/icons/requests.png"></code>
 
-### Automation Stack:
+### <p  align="center"> Automation Stack:
 <p  align="center">
   <code><img width="5%" title="Selenium" src="images/icons/selenium.png"></code>
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
