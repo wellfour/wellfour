@@ -3,6 +3,7 @@ QA Automation engineer.
 ---
 
 ### Tools and technologies:
+### JAVA Stack:
 <p  align="center">
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
   <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
