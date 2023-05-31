@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I’m a QA Automation engineer.
+QA Automation engineer.
 ---
 
 ### Tools and technologies:
