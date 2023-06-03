@@ -2,7 +2,6 @@ QA Automation engineer.
 ---
 
 I have my own server with a deployed infrastructure for running tests using Docker and Jenkins. I use Docker UI and Docker Compose to manage containers and configure the environment. This allows me to easily scale and control my test environments, providing increased flexibility and efficiency in software development and testing.
----
 
 ### Tools and technologies:
 
