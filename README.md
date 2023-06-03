@@ -1,7 +1,13 @@
 QA Automation engineer.
 ---
 
-I have my own server with a deployed infrastructure for running tests using Docker and Jenkins. I use Docker UI and Docker Compose to manage containers and configure the environment. This allows me to easily scale and control my test environments, providing increased flexibility and efficiency in software development and testing.
+I am a QA Automation Engineer specializing in automating tests for web, API, and mobile applications. With my own server and a well-established infrastructure, I ensure efficient test execution. Leveraging Docker, Jenkins, Docker UI, and Docker Compose, I scale the environment seamlessly. I generate comprehensive Allure reports enriched with insightful screenshots, videos, and page source code.
+
+Integrating GitHub webhooks into my workflow allows for seamless CI/CD pipeline integration. I embrace parallel execution and parameterized tests to optimize test coverage and minimize execution time. Timely notifications are sent via email and Telegram, ensuring prompt awareness of test results through a custom bot.
+
+In addition, I integrate with Jira for streamlined issue tracking and leverage Allure TestOps for comprehensive test management. With hands-on experience in BrowserStack, I ensure compatibility across diverse browsers and devices.
+
+Let me help you establish reliable test automation and deliver high-quality software solutions.
 
 ### Tools and technologies:
 
