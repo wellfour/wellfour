@@ -1,9 +1,9 @@
 QA Automation engineer.
 ---
 
-I am a QA Automation Engineer specializing in automating tests for web, API, and mobile applications. With my own server and a well-established infrastructure, I ensure efficient test execution. Leveraging Docker, Jenkins, Docker UI, and Docker Compose, I scale the environment seamlessly. I generate comprehensive Allure reports enriched with insightful screenshots, videos, and page source code.
+I am a QA Automation Engineer specializing in automating tests for web, API, and mobile applications. With my own server and a well-established infrastructure, I ensure efficient test execution. Leveraging Docker, Jenkins, Selenoid, Docker UI, and Docker Compose, I scale the environment seamlessly. I generate comprehensive Allure reports enriched with insightful screenshots, videos, and page source code.
 
-Integrating GitHub webhooks into my workflow allows for seamless CI/CD pipeline integration. I embrace parallel execution and parameterized tests to optimize test coverage and minimize execution time. Timely notifications are sent via email and Telegram, ensuring prompt awareness of test results through a custom bot.
+Integrating GitHub webhooks into my workflow allows for seamless CI/CD pipeline integration. I embrace parallel execution and parameterized tests to optimize test coverage and minimize execution time. Timely notifications are sent via email and Telegram, ensuring prompt awareness of test results through a custom
 
 In addition, I integrate with Jira for streamlined issue tracking and leverage Allure TestOps for comprehensive test management. With hands-on experience in BrowserStack, I ensure compatibility across diverse browsers and devices.
 
