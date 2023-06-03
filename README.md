@@ -15,7 +15,6 @@ Let me help you establish reliable test automation and deliver high-quality soft
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
   <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
   <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
   <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
