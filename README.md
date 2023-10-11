@@ -1,4 +1,4 @@
-QA Automation engineer.
+QA Automation engineer
 ---
 
 I am a QA Automation Engineer specializing in automating tests for web, API, and mobile applications. With my own server and a well-established infrastructure, I ensure efficient test execution. Leveraging Docker, Jenkins and Selenoid, I scale the environment seamlessly. I generate comprehensive Allure reports enriched with insightful screenshots, videos, and page source code.
