@@ -19,14 +19,6 @@ Let me help you establish reliable test automation and deliver high-quality soft
   <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
   <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
 
-### <p  align="center"> Python stack:
-<p  align="center">
-  <code><img width="5%" title="Pycharm" src="images/icons/pycharm.png"></code>
-  <code><img width="5%" title="Python" src="images/icons/python.png"></code>
-  <code><img width="5%" title="Pytest" src="images/icons/pytest.png"></code>
-  <code><img width="5%" title="Selene" src="images/icons/selene.png"></code>
-  <code><img width="5%" title="Requests" src="images/icons/requests.png"></code>
-
 ### <p  align="center"> Automation Stack:
 <p  align="center">
   <code><img width="5%" title="Selenium" src="images/icons/selenium.png"></code>
