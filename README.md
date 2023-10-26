@@ -11,16 +11,12 @@ Let me help you establish reliable test automation and deliver high-quality soft
 
 ### Tools and technologies:
 
-### <p  align="center"> Java stack:
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
   <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
   <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
   <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
-
-### <p  align="center"> Automation Stack:
-<p  align="center">
   <code><img width="5%" title="Selenium" src="images/icons/selenium.png"></code>
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
